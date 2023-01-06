@@ -1,0 +1,11 @@
+.key {
+  text-align: center;
+  border: 2px solid black;
+  width: 15rem;
+  height: 6rem;
+  margin: 4rem auto;
+  padding: 10px;
+}
+.public-submit {
+  margin-top: 20px;
+}
